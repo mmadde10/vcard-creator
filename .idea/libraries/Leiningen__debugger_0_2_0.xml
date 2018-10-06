@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: debugger:0.2.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/debugger/debugger/0.2.0/debugger-0.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
